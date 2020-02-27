@@ -9,7 +9,8 @@
 name: Build OpenWrt For ACRH17 171
 
 on:
-  
+  release:
+    types: [published]
   push:
     branches:
       - master
