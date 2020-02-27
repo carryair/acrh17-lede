@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: Build OpenWrt ACRH17 171
+name: Build OpenWrt For ACRH17 171
 
 on:
   release:
